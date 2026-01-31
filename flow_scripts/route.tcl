@@ -11,6 +11,7 @@ detailed_placement
 ##ROUTE SETTINGS
 set_routing_layers -signal met1-met5 -clock met1-met5
 
+#FIRST GLOBAL ROUTE
 global_route -allow_congestion -verbose -guide_file ./groute.guide
 
 ##EVAL SPEF
@@ -51,7 +52,7 @@ global_route -allow_congestion -verbose -guide_file ./groute.guide
 
 ##DETAIL ROUTE
 detailed_route \
--droute_end_iter "5" \
+-droute_end_iter "10" \
 -verbose "10" \
 -output_drc ./drc_report.txt \
 -db_process_node "130"
@@ -105,9 +106,3 @@ write_verilog -remove_cells "*fill* *cap*" ./route/netlist/netlist.v
 write_sdc ./route/sdc/sdc.sdc
 write_spef ./route/spef/spef.spef
 write_sdf -digits 3 -corner ss_1p60v_m40c ./route/sdf/sdf.sdf
-
-#report_checks -path_delay max -format full_clock_expanded -no_line_splits -fields {slew cap net fanout} > ./timing_reports/postroute/top${K}_worst_setup_paths.txt
-
-report_checks -digits 3 -unique_paths_to_endpoint -endpoint_path_count 1000000000 -format summary > ./paths.txt
-source ../../../flow_scripts/get_critical_nets.tcl
-source ../../../flow_scripts/get_net_v3.tcl

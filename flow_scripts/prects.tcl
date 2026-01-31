@@ -28,30 +28,39 @@ set_wire_rc -signal -layer met3
 ##SET ALL CLOCKS TO IDEL (NOT PROPAGATED)
 unset_propagated_clock [all_clocks]
 
+#REMOIVE INITAL BUFFERS FROM SYNT NETLIST
 remove_buffers 
 
+#GLOBAL PLACEMENT
 global_placement \
+-timing_driven \
 -routability_driven \
--overflow "0.05" \
+-overflow "0.01" \
 -density "0.7" \
 -init_density_penalty "1e-2" \
 -pad_left "2"
 
+#DETAILED PLACEMENT
 detailed_placement
 
+#estimate_parasitics
 estimate_parasitics -placement
 
+#OPT DRV
 repair_design -verbose
 
+#OPT SETUP
 repair_timing -setup -verbose
 
+#DETAILED PLACEMENT
 detailed_placement
 
+#OPT MIRROR
 optimize_mirroring
 
-#check_placement
+check_placement
 
-##EVAL SPEF
+##estimate_parasitics
 estimate_parasitics -placement
 
 ##REPORT TIMING AFTER PRECTS
