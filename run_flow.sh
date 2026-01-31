@@ -4,13 +4,16 @@
 #. $HOME/OpenROAD-flow-scripts/env.sh
 
 #Choose design for flow
-design="ac97_top"
+design="usb_phy"
 
 #set rtl dataset path
 rtl_dataset_path="$HOME/RTL-Dataset"
 
 #set pdk path
 pdk_path="$HOME/skywater-pdk"
+
+#set flow repo dir
+flow_dir="$HOME/phd/ml-critical-path-prediction"
 
 #createa base dir
 mkdir -p designs
@@ -27,13 +30,14 @@ export design
 export HOME
 export rtl_dataset_path
 export pdk_path
+export flow_dir
 
 #run synt in yosys
-cd $HOME/CapPredictionOpenROAD/designs/$design/yosys/
+cd $flow_dir/designs/$design/yosys/
 yosys ../../../flow_scripts/run_yosys.tcl
 
 #run flow in openroad
-cd $HOME/CapPredictionOpenROAD/designs/$design/openroad/
+cd $flow_dir/designs/$design/openroad/
 openroad -threads 4 -gui -log ./log.txt \
 -metrics metrics.txt \
 ../../../flow_scripts/run_openroad.tcl
