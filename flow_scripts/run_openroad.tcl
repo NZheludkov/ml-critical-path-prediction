@@ -8,6 +8,9 @@ set flow_dir $env(flow_dir)
 #source design config
 source $rtl_dataset_path/designs/$design/config.tcl
 
+#source procs
+source $flow_dir/flow_scripts/procs.tcl
+
 #init design
 source $flow_dir/flow_scripts/init_design.tcl
 
@@ -15,16 +18,16 @@ source $flow_dir/flow_scripts/init_design.tcl
 source $flow_dir/flow_scripts/create_floorplan.tcl
 
 #prects 
-#source $flow_dir/flow_scripts/prects.tcl
+source $flow_dir/flow_scripts/prects.tcl
 
 #cts 
-#source $flow_dir/flow_scripts/cts.tcl
+source $flow_dir/flow_scripts/cts.tcl
 
 #postcts 
-#source $flow_dir/flow_scripts/postcts.tcl
+source $flow_dir/flow_scripts/postcts.tcl
 
 #route 
-#source $flow_dir/flow_scripts/route.tcl
+source $flow_dir/flow_scripts/route.tcl
 
 
 
