@@ -34,10 +34,10 @@ export flow_dir
 
 #run synt in yosys
 cd $flow_dir/designs/$design/yosys/
-yosys ../../../flow_scripts/run_yosys.tcl
+yosys $flow_dir/flow_scripts/run_yosys.tcl
 
 #run flow in openroad
 cd $flow_dir/designs/$design/openroad/
 openroad -threads 4 -gui -log ./log.txt \
 -metrics metrics.txt \
-../../../flow_scripts/run_openroad.tcl
+$flow_dir/flow_scripts/run_openroad.tcl
