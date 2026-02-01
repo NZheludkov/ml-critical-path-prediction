@@ -20,6 +20,12 @@ source $flow_dir/flow_scripts/create_floorplan.tcl
 #prects 
 source $flow_dir/flow_scripts/prects.tcl
 
+#get net feats at place stage
+source $flow_dir/flow_scripts/get_net_feats.tcl
+
+#get critical net at place stage
+source $flow_dir/flow_scripts/get_net_labels_place.tcl
+
 #cts 
 source $flow_dir/flow_scripts/cts.tcl
 
@@ -28,6 +34,12 @@ source $flow_dir/flow_scripts/postcts.tcl
 
 #route 
 source $flow_dir/flow_scripts/route.tcl
+
+#get critical net at route stage
+source $flow_dir/flow_scripts/get_net_labels_route.tcl
+
+#dataset 
+#source $flow_dir/flow_scripts/create_dataset.tcl
 
 
 

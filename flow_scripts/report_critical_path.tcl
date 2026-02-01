@@ -5,7 +5,7 @@
 #  - number of paths with negative slack
 #  - list of paths in top 5% worst (lowest slack)
 
-set infile "paths.txt"
+set infile "./$stage/paths.txt"
 set top_pct 0.05
 
 # ---- Read file ----
@@ -65,7 +65,7 @@ puts "Top [expr {$top_pct*100.0}]% worst paths (count=$top_n):"
 set top_paths [lrange $paths_sorted 0 [expr {$top_n - 1}]]
 
 # Print in same compact format + also save to file
-set out_top "top5pct_worst_paths.txt"
+set out_top "./$stage/top5pct_worst_paths.txt"
 set fo [open $out_top w]
 puts $fo "Total paths: $total"
 puts $fo "Negative slack paths: $neg_count"

@@ -1,14 +1,14 @@
 # get_net_labels_from_top5pct_paths_v4_netname_via_property.tcl
 
-set infile  "top5pct_worst_paths.txt"
+set infile  "./$stage/top5pct_worst_paths.txt"
 set corner  "ss_1p60v_m40c"
 
 set out_dir "."
 exec mkdir -p $out_dir
 
-set out_nets    "$out_dir/critical_nets.txt"
-set out_csv     "$out_dir/net_labels.csv"
-set out_summary "$out_dir/critical_paths_summary.csv"
+set out_nets    "$out_dir/$stage/critical_nets.txt"
+set out_csv     "$out_dir/$stage/net_labels.csv"
+set out_summary "$out_dir/$stage/critical_paths_summary.csv"
 
 proc strip_suffix_parens {s} {
     regsub {\s*\(.*\)\s*$} $s "" out
