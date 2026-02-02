@@ -1,21 +1,11 @@
-##ADD TIELO TIEHI
-insert_tiecells -prefix TIE sky130_fd_sc_hd__conb_1/HI
-insert_tiecells -prefix TIE sky130_fd_sc_hd__conb_1/LO
-
-repair_tie_fanout -verbose sky130_fd_sc_hd__conb_1/HI
-repair_tie_fanout -verbose sky130_fd_sc_hd__conb_1/LO
-
-##PLACE TIE CELLS
-detailed_placement
-
 ##ROUTE SETTINGS
 set_routing_layers -signal met1-met5 -clock met1-met5
-
-#FIRST GLOBAL ROUTE
+ 
+#GLOBAL ROUTE
 global_route -allow_congestion -verbose -guide_file ./groute.guide
 
-##EVAL SPEF
-estimate_parasitics -global_routing
+##FIX SLEW,FANOUT,CAP (DRV)
+repair_design -verbose
 
 ##FIX SETUP 1
 repair_timing -setup -verbose -repair_tns 100
@@ -29,10 +19,20 @@ repair_timing -setup -verbose -repair_tns 100
 ##FIX HOLD 2
 repair_timing -hold -allow_setup_violations
 
-##FIX SLEW,FANOUT,CAP (DRV)
-repair_design -verbose
-
 ##DETAIL PLACEMENT AFTER ADDING CTS BUFS
+detailed_placement
+
+##OPTIMIZE PLACE BY MIRRORING CELL
+optimize_mirroring
+
+##ADD TIELO TIEHI
+insert_tiecells -prefix TIE sky130_fd_sc_hd__conb_1/HI
+insert_tiecells -prefix TIE sky130_fd_sc_hd__conb_1/LO
+
+repair_tie_fanout -verbose sky130_fd_sc_hd__conb_1/HI
+repair_tie_fanout -verbose sky130_fd_sc_hd__conb_1/LO
+
+##PLACE TIE CELLS
 detailed_placement
 
 ##OPTIMIZE PLACE BY MIRRORING CELL
@@ -46,13 +46,13 @@ sky130_fd_sc_hd__fill_1
 sky130_fd_sc_hd__fill_2 
 sky130_fd_sc_hd__fill_4 
 sky130_fd_sc_hd__fill_8"
- 
+
 #GLOBAL ROUTE
 global_route -allow_congestion -verbose -guide_file ./groute.guide
 
 ##DETAIL ROUTE
 detailed_route \
--droute_end_iter "10" \
+-droute_end_iter "5" \
 -verbose "10" \
 -output_drc ./drc_report.txt \
 -db_process_node "130"
