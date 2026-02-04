@@ -4,7 +4,7 @@
 #. $HOME/OpenROAD-flow-scripts/env.sh
 
 #Choose design for flow
-design="usb_phy"
+#design="usb_phy"
 
 #set rtl dataset path
 rtl_dataset_path="$HOME/RTL-Dataset"
@@ -40,4 +40,5 @@ yosys $flow_dir/flow_scripts/run_yosys.tcl
 cd $flow_dir/designs/$design/openroad/
 openroad -threads 4 -gui -log ./log.txt \
 -metrics metrics.txt \
-$flow_dir/flow_scripts/run_openroad.tcl
+$flow_dir/flow_scripts/run_openroad.tcl \
+-exit
