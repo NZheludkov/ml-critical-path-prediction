@@ -1,0 +1,10 @@
+idx,start_raw,end_raw,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
+1,"_504_/Q (sky130_fd_sc_hd__edfxtp_1)","_507_/D (sky130_fd_sc_hd__edfxtp_1)","_504_/Q","_507_/D","2.203",2.202964,11,OK
+2,"_504_/Q (sky130_fd_sc_hd__dfxtp_1)","_613_/D (sky130_fd_sc_hd__dfxtp_1)","_504_/Q","_613_/D","2.251",2.251313,10,OK
+3,"_504_/Q (sky130_fd_sc_hd__edfxtp_1)","_508_/D (sky130_fd_sc_hd__edfxtp_1)","_504_/Q","_508_/D","2.275",2.274728,11,OK
+4,"_504_/Q (sky130_fd_sc_hd__dfxtp_2)","_610_/D (sky130_fd_sc_hd__dfxtp_2)","_504_/Q","_610_/D","2.304",2.303706,9,OK
+5,"_504_/Q (sky130_fd_sc_hd__dfxtp_1)","_614_/D (sky130_fd_sc_hd__dfxtp_1)","_504_/Q","_614_/D","2.427",2.426718,11,OK
+6,"_504_/Q (sky130_fd_sc_hd__edfxtp_1)","_505_/DE (sky130_fd_sc_hd__edfxtp_1)","_504_/Q","_505_/DE","2.609",2.608594,9,OK
+7,"_504_/Q (sky130_fd_sc_hd__edfxtp_1)","_507_/DE (sky130_fd_sc_hd__edfxtp_1)","_504_/Q","_507_/DE","2.609",2.608624,9,OK
+8,"_504_/Q (sky130_fd_sc_hd__edfxtp_1)","_509_/DE (sky130_fd_sc_hd__edfxtp_1)","_504_/Q","_509_/DE","2.609",2.608836,9,OK
+9,"_504_/Q (sky130_fd_sc_hd__edfxtp_1)","_511_/DE (sky130_fd_sc_hd__edfxtp_1)","_504_/Q","_511_/DE","2.609",2.608888,9,OK
