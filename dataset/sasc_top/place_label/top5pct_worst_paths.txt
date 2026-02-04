@@ -1,0 +1,13 @@
+Total paths: 165
+Negative slack paths: 0
+Top 5.0% worst paths (count=9):
+Startpoint	Endpoint	Slack
+_407_/Q (sky130_fd_sc_hd__dfxtp_4)	_407_/D (sky130_fd_sc_hd__dfxtp_4)	1.022
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_330_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_331_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_332_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_333_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_334_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_335_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_336_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
+_380_/Q (sky130_fd_sc_hd__edfxtp_1)	_337_/DE (sky130_fd_sc_hd__edfxtp_1)	1.164
