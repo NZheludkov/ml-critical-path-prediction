@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 ##CREATE FP
 initialize_floorplan -utilization $CU -core_space 3 -aspect_ratio $AR -site unithd
 
@@ -28,4 +31,8 @@ add_pdn_connect -layers {met4 met5} -grid Core
 pdngen
 
 ##ADD PINS
-place_pins -hor_layers {met3 met5} -ver_layers {met2 met4} -min_distance_in_tracks -min_distance 8
+place_pins -hor_layers {met3 met5} -ver_layers {met2 met4} -min_distance_in_tracks -min_distance 4
+
+##END TIME
+set end_time [exec date +%s]
+set create_floorplan_time [expr $end_time - $start_time]

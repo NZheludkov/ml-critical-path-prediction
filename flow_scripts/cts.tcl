@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 ##PROPAGATE ALL CLOCKS
 set_propagated_clock [all_clocks]
 
@@ -16,6 +19,9 @@ repair_clock_inverters
 configure_cts_characterization\
     -max_slew $max_slew\
     -max_cap $max_cap
+
+#DISABLE NDR FOR BETTER ROUTING
+set_cts_config -apply_ndr none
 
 ##CTS
 clock_tree_synthesis \
@@ -57,3 +63,7 @@ write_def ./cts/def/def.def
 write_verilog -remove_cells "*fill* *cap*" ./cts/netlist/netlist.v
 write_sdc ./cts/sdc/sdc.sdc
 write_sdf -digits 3 -corner ss_1p60v_m40c ./cts/sdf/sdf.sdf
+
+##END TIME
+set end_time [exec date +%s]
+set cts_time [expr $end_time - $start_time]

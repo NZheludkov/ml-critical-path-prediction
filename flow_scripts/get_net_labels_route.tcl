@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 #stage place
 set stage "route_label"
 exec mkdir -p $stage
@@ -33,4 +36,8 @@ source $flow_dir/flow_scripts/report_critical_path.tcl
 
 #get critical net, labeled
 source $flow_dir/flow_scripts/get_critical_net.tcl
+
+##END TIME
+set end_time [exec date +%s]
+set get_net_labels_route_time [expr $end_time - $start_time]
 

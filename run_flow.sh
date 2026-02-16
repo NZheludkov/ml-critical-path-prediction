@@ -16,14 +16,14 @@ pdk_path="$HOME/skywater-pdk"
 flow_dir="$HOME/phd/ml-critical-path-prediction"
 
 #createa base dir
-mkdir -p designs
+mkdir -p $flow_dir/designs
 
 #create dir for block
-mkdir -p designs/$design
+mkdir -p $flow_dir/designs/$design
 
 #create yosys and openroad dirs
-mkdir -p designs/$design/yosys
-mkdir -p designs/$design/openroad
+mkdir -p $flow_dir/designs/$design/yosys
+mkdir -p $flow_dir/designs/$design/openroad
 
 #exports vars
 export design
@@ -38,7 +38,6 @@ yosys $flow_dir/flow_scripts/run_yosys.tcl
 
 #run flow in openroad
 cd $flow_dir/designs/$design/openroad/
-openroad -threads 4 -gui -log ./log.txt \
+openroad -threads 4 -log ./log.txt \
 -metrics metrics.txt \
-$flow_dir/flow_scripts/run_openroad.tcl \
--exit
+$flow_dir/flow_scripts/run_openroad.tcl -gui
