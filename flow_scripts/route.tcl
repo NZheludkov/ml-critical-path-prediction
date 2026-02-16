@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 ##ROUTE SETTINGS
 set_routing_layers -signal met1-met5 -clock met1-met5
  
@@ -94,6 +97,10 @@ report_checks -corner ss_1p60v_m40c -digits 3 -path_delay min -format full_clock
 report_checks -corner ss_1p60v_m40c -digits 3 -path_delay min -format full_clock_expanded -no_line_splits -fields {slew net cap fanout} -path_group reg2out > ./timing_reports/route_spef/reg2out_hold.txt
 report_checks -corner ss_1p60v_m40c -digits 3 -path_delay min -format full_clock_expanded -no_line_splits -fields {slew net cap fanout} -path_group in2out  > ./timing_reports/route_spef/in2out_hold.txt
 
+##WRITE WNS
+with_output_to_variable a {report_checks -path_group reg2reg -digits 3 -format slack_only -no_line_splits}
+set wns [lindex $a 4]
+
 ##WRITE ROUTE DATA
 exec mkdir -p ./route/def/
 exec mkdir -p ./route/netlist/
@@ -106,3 +113,7 @@ write_verilog -remove_cells "*fill* *cap*" ./route/netlist/netlist.v
 write_sdc ./route/sdc/sdc.sdc
 write_spef ./route/spef/spef.spef
 write_sdf -digits 3 -corner ss_1p60v_m40c ./route/sdf/sdf.sdf
+
+##END TIME
+set end_time [exec date +%s]
+set route_time [expr $end_time - $start_time]

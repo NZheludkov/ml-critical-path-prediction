@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 ##POSTCTS (FIX DRV, SETUP, HOLD)
 ##FIX SLEW,FANOUT,CAP (DRV)
 repair_design -verbose
@@ -54,3 +57,7 @@ write_def ./postcts/def/def.def
 write_verilog -remove_cells "*fill* *cap*" ./postcts/netlist/netlist.v
 write_sdc ./postcts/sdc/sdc.sdc
 write_sdf -digits 3 -corner ss_1p60v_m40c ./postcts/sdf/sdf.sdf
+
+##END TIME
+set end_time [exec date +%s]
+set postcts_time [expr $end_time - $start_time]

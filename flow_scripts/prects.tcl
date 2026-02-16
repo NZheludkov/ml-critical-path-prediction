@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 ##DONT USE LIST
 set_dont_use *clk*
 set_dont_use *decap*
@@ -36,9 +39,11 @@ global_placement \
 -timing_driven \
 -routability_driven \
 -overflow "0.01" \
--density "0.7" \
+-density "0.5" \
 -init_density_penalty "1e-2" \
--pad_left "2"
+-pad_left "4" \
+-pad_right "4" \
+-enable_routing_congestion
 
 #DETAILED PLACEMENT
 detailed_placement
@@ -80,3 +85,7 @@ write_def ./prects/def/def.def
 write_verilog -remove_cells "*fill* *cap*" ./prects/netlist/netlist.v
 write_sdc ./prects/sdc/sdc.sdc
 write_sdf -digits 3 -corner ss_1p60v_m40c ./prects/sdf/sdf.sdf
+
+##END TIME
+set end_time [exec date +%s]
+set prects_time [expr $end_time - $start_time]

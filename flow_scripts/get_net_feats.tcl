@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 # extract_net_features_place_v1_2.tcl
 #
 # Additions vs v1.1:
@@ -424,3 +427,7 @@ foreach f $feats_list {
 close $fo
 
 puts "Wrote: $out_csv"
+
+##END TIME
+set end_time [exec date +%s]
+set get_net_feats_time [expr $end_time - $start_time]
