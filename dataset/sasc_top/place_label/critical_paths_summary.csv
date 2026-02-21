@@ -1,10 +1,10 @@
-idx,start_raw,end_raw,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
-1,"_407_/Q (sky130_fd_sc_hd__dfxtp_4)","_407_/D (sky130_fd_sc_hd__dfxtp_4)","_407_/Q","_407_/D","1.022",1.022109,5,OK
-2,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_330_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_330_/DE","1.164",1.163633,8,OK
-3,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_331_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_331_/DE","1.164",1.163755,8,OK
-4,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_332_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_332_/DE","1.164",1.163623,8,OK
-5,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_333_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_333_/DE","1.164",1.163764,8,OK
-6,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_334_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_334_/DE","1.164",1.163628,8,OK
-7,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_335_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_335_/DE","1.164",1.163683,8,OK
-8,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_336_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_336_/DE","1.164",1.163658,8,OK
-9,"_380_/Q (sky130_fd_sc_hd__edfxtp_1)","_337_/DE (sky130_fd_sc_hd__edfxtp_1)","_380_/Q","_337_/DE","1.164",1.163726,8,OK
+idx,start_raw,end_raw,from_tok,to_tok,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
+1,"_407_/Q (sky130_fd_sc_hd__dfxtp_4)","_407_/D (sky130_fd_sc_hd__dfxtp_4)","_407_/Q","_407_/D","_407_/Q","_407_/D","0.915",0.915022,5,OK
+2,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_314_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_314_/DE","_383_/Q","_314_/DE","1.366",1.365890,7,OK
+3,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_315_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_315_/DE","_383_/Q","_315_/DE","1.366",1.365905,7,OK
+4,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_317_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_317_/DE","_383_/Q","_317_/DE","1.366",1.365899,7,OK
+5,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_318_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_318_/DE","_383_/Q","_318_/DE","1.366",1.365888,7,OK
+6,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_319_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_319_/DE","_383_/Q","_319_/DE","1.366",1.365887,7,OK
+7,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_320_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_320_/DE","_383_/Q","_320_/DE","1.366",1.365927,7,OK
+8,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_322_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_322_/DE","_383_/Q","_322_/DE","1.372",1.371949,7,OK
+9,"_383_/Q (sky130_fd_sc_hd__edfxtp_1)","_323_/DE (sky130_fd_sc_hd__edfxtp_1)","_383_/Q","_323_/DE","_383_/Q","_323_/DE","1.372",1.371943,7,OK

@@ -1,8 +1,8 @@
-idx,start_raw,end_raw,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
-1,"_1009_/Q (sky130_fd_sc_hd__dfrtp_1)","_1014_/D (sky130_fd_sc_hd__dfrtp_1)","_1009_/Q","_1014_/D","2.06",2.059970,11,OK
-2,"_1009_/Q (sky130_fd_sc_hd__dfrtp_1)","_1018_/D (sky130_fd_sc_hd__dfrtp_1)","_1009_/Q","_1018_/D","2.065",2.064670,11,OK
-3,"_1009_/Q (sky130_fd_sc_hd__dfrtp_1)","_1019_/D (sky130_fd_sc_hd__dfrtp_1)","_1009_/Q","_1019_/D","2.065",2.064744,11,OK
-4,"_1009_/Q (sky130_fd_sc_hd__dfrtp_1)","_1012_/D (sky130_fd_sc_hd__dfrtp_1)","_1009_/Q","_1012_/D","2.067",2.067282,11,OK
-5,"_1009_/Q (sky130_fd_sc_hd__dfrtp_1)","_1006_/D (sky130_fd_sc_hd__dfrtp_1)","_1009_/Q","_1006_/D","2.068",2.068211,11,OK
-6,"_1009_/Q (sky130_fd_sc_hd__dfrtp_1)","_1017_/D (sky130_fd_sc_hd__dfrtp_1)","_1009_/Q","_1017_/D","2.068",2.068111,11,OK
-7,"_1009_/Q (sky130_fd_sc_hd__dfrtp_1)","_1005_/D (sky130_fd_sc_hd__dfrtp_1)","_1009_/Q","_1005_/D","2.069",2.068777,11,OK
+idx,start_raw,end_raw,from_tok,to_tok,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
+1,"_1018_/Q (sky130_fd_sc_hd__dfrtp_1)","_1006_/D (sky130_fd_sc_hd__dfrtp_1)","_1018_/Q","_1006_/D","_1018_/Q","_1006_/D","1.444",1.444063,12,OK
+2,"_1018_/Q (sky130_fd_sc_hd__dfrtp_1)","_1015_/D (sky130_fd_sc_hd__dfrtp_1)","_1018_/Q","_1015_/D","_1018_/Q","_1015_/D","1.447",1.447080,12,OK
+3,"_1018_/Q (sky130_fd_sc_hd__dfrtp_1)","_1005_/D (sky130_fd_sc_hd__dfrtp_1)","_1018_/Q","_1005_/D","_1018_/Q","_1005_/D","1.448",1.447701,12,OK
+4,"_1018_/Q (sky130_fd_sc_hd__dfrtp_1)","_1013_/D (sky130_fd_sc_hd__dfrtp_1)","_1018_/Q","_1013_/D","_1018_/Q","_1013_/D","1.448",1.447920,12,OK
+5,"_1018_/Q (sky130_fd_sc_hd__dfrtp_1)","_1014_/D (sky130_fd_sc_hd__dfrtp_1)","_1018_/Q","_1014_/D","_1018_/Q","_1014_/D","1.448",1.448080,12,OK
+6,"_1018_/Q (sky130_fd_sc_hd__dfrtp_1)","_1016_/D (sky130_fd_sc_hd__dfrtp_1)","_1018_/Q","_1016_/D","_1018_/Q","_1016_/D","1.45",1.450278,12,OK
+7,"_1018_/Q (sky130_fd_sc_hd__dfrtp_1)","_1019_/D (sky130_fd_sc_hd__dfrtp_1)","_1018_/Q","_1019_/D","_1018_/Q","_1019_/D","1.836",1.836176,11,OK

@@ -1,16 +1,16 @@
 Total paths: 229
-Negative slack paths: 107
+Negative slack paths: 74
 Top 5.0% worst paths (count=12):
 Startpoint	Endpoint	Slack
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3232_/D (sky130_fd_sc_hd__dfrtp_1)	-0.575
-_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3277_/D (sky130_fd_sc_hd__dfrtp_1)	-0.564
-_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3291_/D (sky130_fd_sc_hd__dfrtp_1)	-0.527
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3314_/D (sky130_fd_sc_hd__dfrtp_1)	-0.52
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3312_/D (sky130_fd_sc_hd__dfrtp_1)	-0.516
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3307_/D (sky130_fd_sc_hd__dfrtp_1)	-0.506
-_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3234_/D (sky130_fd_sc_hd__dfrtp_1)	-0.486
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3298_/D (sky130_fd_sc_hd__dfrtp_1)	-0.486
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3241_/D (sky130_fd_sc_hd__dfrtp_1)	-0.475
-_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3242_/D (sky130_fd_sc_hd__dfrtp_1)	-0.469
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3296_/D (sky130_fd_sc_hd__dfrtp_1)	-0.448
-_3319_/Q (sky130_fd_sc_hd__dfrtp_1)	_3301_/D (sky130_fd_sc_hd__dfrtp_1)	-0.431
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3208_/D (sky130_fd_sc_hd__dfrtp_1)	-0.312
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3252_/D (sky130_fd_sc_hd__dfrtp_1)	-0.311
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3254_/D (sky130_fd_sc_hd__dfrtp_1)	-0.292
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3195_/D (sky130_fd_sc_hd__dfrtp_1)	-0.287
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3211_/D (sky130_fd_sc_hd__dfrtp_1)	-0.259
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3229_/D (sky130_fd_sc_hd__dfrtp_1)	-0.255
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3233_/D (sky130_fd_sc_hd__dfrtp_1)	-0.251
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3279_/D (sky130_fd_sc_hd__dfrtp_1)	-0.245
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3285_/D (sky130_fd_sc_hd__dfrtp_1)	-0.24
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3231_/D (sky130_fd_sc_hd__dfrtp_1)	-0.238
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3301_/D (sky130_fd_sc_hd__dfrtp_1)	-0.232
+_3335_/Q (sky130_fd_sc_hd__dfrtp_1)	_3192_/D (sky130_fd_sc_hd__dfrtp_1)	-0.218

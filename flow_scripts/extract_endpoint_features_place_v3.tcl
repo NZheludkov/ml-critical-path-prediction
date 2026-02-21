@@ -1,3 +1,6 @@
+##START TIME
+set start_time [exec date +%s]
+
 # extract_endpoint_features_place_v2.tcl
 # Endpoint features for ranking (place stage).
 # Requires: sta::sta_to_db_inst and sta::sta_to_db_net available.
@@ -511,3 +514,8 @@ foreach ep $eps {
 }
 close $fo
 puts "Wrote: $out_csv"
+
+
+##END TIME
+set end_time [exec date +%s]
+set extract_feats_place_time [expr $end_time - $start_time]

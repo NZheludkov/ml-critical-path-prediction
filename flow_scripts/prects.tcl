@@ -3,6 +3,7 @@ set start_time [exec date +%s]
 
 ##DONT USE LIST
 set_dont_use *clk*
+set_dont_use *_0
 set_dont_use *decap*
 set_dont_use *dly*
 set_dont_use *diode*

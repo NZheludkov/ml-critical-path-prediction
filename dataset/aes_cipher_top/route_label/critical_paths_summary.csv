@@ -1,23 +1,23 @@
-idx,start_raw,end_raw,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
-1,"_17816_/Q (sky130_fd_sc_hd__dfxtp_2) _17842_/D (sky130_fd_sc_hd__dfxtp_2)","","_17816_/Q","clk","-0.705",,0,NO_PATH
-2,"_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17850_/D (sky130_fd_sc_hd__dfxtp_2)","","_17865_/Q","clk","-0.133",,0,NO_PATH
-3,"_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17786_/D (sky130_fd_sc_hd__dfxtp_2)","","_17865_/Q","clk","-0.103",,0,NO_PATH
-4,"_17873_/Q (sky130_fd_sc_hd__dfxtp_1) _17797_/D (sky130_fd_sc_hd__dfxtp_1)","","_17873_/Q","clk","-0.1",,0,NO_PATH
-5,"_17834_/Q (sky130_fd_sc_hd__dfxtp_2) _17829_/D (sky130_fd_sc_hd__dfxtp_2)","","_17834_/Q","clk","0.017",,0,NO_PATH
-6,"_17833_/Q (sky130_fd_sc_hd__dfxtp_4) _17831_/D (sky130_fd_sc_hd__dfxtp_4)","","_17833_/Q","clk","0.05",,0,NO_PATH
-7,"_17803_/Q (sky130_fd_sc_hd__dfxtp_2) _17864_/D (sky130_fd_sc_hd__dfxtp_2)","","_17803_/Q","clk","0.086",,0,NO_PATH
-8,"_17807_/Q (sky130_fd_sc_hd__dfxtp_2) _17900_/D (sky130_fd_sc_hd__dfxtp_2)","","_17807_/Q","clk","0.146",,0,NO_PATH
-9,"_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17854_/D (sky130_fd_sc_hd__dfxtp_2)","","_17865_/Q","clk","0.227",,0,NO_PATH
-10,"_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17851_/D (sky130_fd_sc_hd__dfxtp_2)","","_17865_/Q","clk","0.259",,0,NO_PATH
-11,"_17841_/Q (sky130_fd_sc_hd__dfxtp_2) _17803_/D (sky130_fd_sc_hd__dfxtp_2)","","_17841_/Q","clk","0.267",,0,NO_PATH
-12,"_17785_/Q (sky130_fd_sc_hd__dfxtp_2) _17881_/D (sky130_fd_sc_hd__dfxtp_2)","","_17785_/Q","clk","0.267",,0,NO_PATH
-13,"_17809_/Q (sky130_fd_sc_hd__dfxtp_2) _17874_/D (sky130_fd_sc_hd__dfxtp_2)","","_17809_/Q","clk","0.285",,0,NO_PATH
-14,"_17791_/Q (sky130_fd_sc_hd__dfxtp_4) _17887_/D (sky130_fd_sc_hd__dfxtp_4)","","_17791_/Q","clk","0.292",,0,NO_PATH
-15,"_17809_/Q (sky130_fd_sc_hd__dfxtp_2) _17876_/D (sky130_fd_sc_hd__dfxtp_2)","","_17809_/Q","clk","0.349",,0,NO_PATH
-16,"_17794_/Q (sky130_fd_sc_hd__dfxtp_2) _17889_/D (sky130_fd_sc_hd__dfxtp_2)","","_17794_/Q","clk","0.356",,0,NO_PATH
-17,"_17847_/Q (sky130_fd_sc_hd__dfxtp_2) _17835_/D (sky130_fd_sc_hd__dfxtp_2)","","_17847_/Q","clk","0.387",,0,NO_PATH
-18,"_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17787_/D (sky130_fd_sc_hd__dfxtp_2)","","_17865_/Q","clk","0.4",,0,NO_PATH
-19,"_17872_/Q (sky130_fd_sc_hd__dfxtp_4) _17857_/D (sky130_fd_sc_hd__dfxtp_4)","","_17872_/Q","clk","0.432",,0,NO_PATH
-20,"_17794_/Q (sky130_fd_sc_hd__dfxtp_2) _17890_/D (sky130_fd_sc_hd__dfxtp_2)","","_17794_/Q","clk","0.44",,0,NO_PATH
-21,"_17809_/Q (sky130_fd_sc_hd__dfxtp_2) _17879_/D (sky130_fd_sc_hd__dfxtp_2)","","_17809_/Q","clk","0.45",,0,NO_PATH
-22,"_17842_/Q (sky130_fd_sc_hd__dfxtp_2) _17806_/D (sky130_fd_sc_hd__dfxtp_2)","","_17842_/Q","clk","0.471",,0,NO_PATH
+idx,start_raw,end_raw,from_tok,to_tok,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
+1,"_17803_/Q (sky130_fd_sc_hd__dfxtp_4)","_17871_/D (sky130_fd_sc_hd__dfxtp_4)","_17803_/Q","_17871_/D","_17803_/Q","_17871_/D","-1.847",-1.847443,37,OK
+2,"_17815_/Q (sky130_fd_sc_hd__dfxtp_2)","_17907_/D (sky130_fd_sc_hd__dfxtp_2)","_17815_/Q","_17907_/D","_17815_/Q","_17907_/D","-0.455",-0.455335,25,OK
+3,"_17803_/Q (sky130_fd_sc_hd__dfxtp_2)","_17868_/D (sky130_fd_sc_hd__dfxtp_2)","_17803_/Q","_17868_/D","_17803_/Q","_17868_/D","-0.395",-0.395220,24,OK
+4,"_17785_/Q (sky130_fd_sc_hd__dfxtp_2)","_17880_/D (sky130_fd_sc_hd__dfxtp_2)","_17785_/Q","_17880_/D","_17785_/Q","_17880_/D","-0.289",-0.288987,20,OK
+5,"_17803_/Q (sky130_fd_sc_hd__dfxtp_2)","_17835_/D (sky130_fd_sc_hd__dfxtp_2)","_17803_/Q","_17835_/D","_17803_/Q","_17835_/D","-0.192",-0.192104,22,OK
+6,"_17866_/Q (sky130_fd_sc_hd__dfxtp_2)","_17854_/D (sky130_fd_sc_hd__dfxtp_2)","_17866_/Q","_17854_/D","_17866_/Q","_17854_/D","0.181",0.180638,21,OK
+7,"_17658_/Q (sky130_fd_sc_hd__dfxtp_1)","_17773_/D (sky130_fd_sc_hd__dfxtp_1)","_17658_/Q","_17773_/D","_17658_/Q","_17773_/D","0.192",0.192212,25,OK
+8,"_17811_/Q (sky130_fd_sc_hd__dfxtp_2)","_17840_/D (sky130_fd_sc_hd__dfxtp_2)","_17811_/Q","_17840_/D","_17811_/Q","_17840_/D","0.235",0.234964,19,OK
+9,"_17815_/Q (sky130_fd_sc_hd__dfxtp_2)","_17905_/D (sky130_fd_sc_hd__dfxtp_2)","_17815_/Q","_17905_/D","_17815_/Q","_17905_/D","0.254",0.254014,19,OK
+10,"_17793_/Q (sky130_fd_sc_hd__dfxtp_2)","_17892_/D (sky130_fd_sc_hd__dfxtp_2)","_17793_/Q","_17892_/D","_17793_/Q","_17892_/D","0.28",0.279973,22,OK
+11,"_17793_/Q (sky130_fd_sc_hd__dfxtp_2)","_17894_/D (sky130_fd_sc_hd__dfxtp_2)","_17793_/Q","_17894_/D","_17793_/Q","_17894_/D","0.339",0.339211,20,OK
+12,"_17809_/Q (sky130_fd_sc_hd__dfxtp_2)","_17808_/D (sky130_fd_sc_hd__dfxtp_2)","_17809_/Q","_17808_/D","_17809_/Q","_17808_/D","0.379",0.378620,21,OK
+13,"_17847_/Q (sky130_fd_sc_hd__dfxtp_2)","_17801_/D (sky130_fd_sc_hd__dfxtp_2)","_17847_/Q","_17801_/D","_17847_/Q","_17801_/D","0.381",0.381346,19,OK
+14,"_17879_/Q (sky130_fd_sc_hd__dfxtp_2)","_17858_/D (sky130_fd_sc_hd__dfxtp_2)","_17879_/Q","_17858_/D","_17879_/Q","_17858_/D","0.4",0.399930,18,OK
+15,"_17800_/Q (sky130_fd_sc_hd__dfxtp_2)","_17864_/D (sky130_fd_sc_hd__dfxtp_2)","_17800_/Q","_17864_/D","_17800_/Q","_17864_/D","0.414",0.414491,22,OK
+16,"_17785_/Q (sky130_fd_sc_hd__dfxtp_2)","_17820_/D (sky130_fd_sc_hd__dfxtp_2)","_17785_/Q","_17820_/D","_17785_/Q","_17820_/D","0.43",0.429658,22,OK
+17,"_17785_/Q (sky130_fd_sc_hd__dfxtp_2)","_17885_/D (sky130_fd_sc_hd__dfxtp_2)","_17785_/Q","_17885_/D","_17785_/Q","_17885_/D","0.46",0.460469,20,OK
+18,"_17803_/Q (sky130_fd_sc_hd__dfxtp_2)","_17833_/D (sky130_fd_sc_hd__dfxtp_2)","_17803_/Q","_17833_/D","_17803_/Q","_17833_/D","0.463",0.463373,19,OK
+19,"_17803_/Q (sky130_fd_sc_hd__dfxtp_4)","_17839_/D (sky130_fd_sc_hd__dfxtp_4)","_17803_/Q","_17839_/D","_17803_/Q","_17839_/D","0.467",0.467089,16,OK
+20,"_17841_/Q (sky130_fd_sc_hd__dfxtp_2)","_17900_/D (sky130_fd_sc_hd__dfxtp_2)","_17841_/Q","_17900_/D","_17841_/Q","_17900_/D","0.469",0.468931,19,OK
+21,"_17811_/Q (sky130_fd_sc_hd__dfxtp_2)","_17846_/D (sky130_fd_sc_hd__dfxtp_2)","_17811_/Q","_17846_/D","_17811_/Q","_17846_/D","0.477",0.477423,19,OK
+22,"_17803_/Q (sky130_fd_sc_hd__dfxtp_2)","_17832_/D (sky130_fd_sc_hd__dfxtp_2)","_17803_/Q","_17832_/D","_17803_/Q","_17832_/D","0.499",0.499312,18,OK

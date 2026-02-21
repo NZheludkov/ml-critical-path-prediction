@@ -1,7 +1,0 @@
-idx,start_raw,end_raw,from_name,to_name,slack_list,slack_found,n_nets_on_path,status
-1,"_514_/Q (sky130_fd_sc_hd__dfxtp_1)","_495_/D (sky130_fd_sc_hd__dfxtp_1)","_514_/Q","_495_/D","3.623",3.622845,7,OK
-2,"_514_/Q (sky130_fd_sc_hd__dfxtp_1)","_494_/D (sky130_fd_sc_hd__dfxtp_1)","_514_/Q","_494_/D","3.877",3.877438,7,OK
-3,"_514_/Q (sky130_fd_sc_hd__dfxtp_1)","_492_/D (sky130_fd_sc_hd__dfxtp_1)","_514_/Q","_492_/D","3.938",3.937741,7,OK
-4,"_514_/Q (sky130_fd_sc_hd__dfxtp_1)","_493_/D (sky130_fd_sc_hd__dfxtp_1)","_514_/Q","_493_/D","4.046",4.046454,7,OK
-5,"_514_/Q (sky130_fd_sc_hd__dfxtp_1)","_491_/D (sky130_fd_sc_hd__dfxtp_1)","_514_/Q","_491_/D","4.251",4.251239,6,OK
-6,"_457_/Q (sky130_fd_sc_hd__dfxtp_1)","_545_/D (sky130_fd_sc_hd__dfxtp_1)","_457_/Q","_545_/D","4.389",4.389311,6,OK

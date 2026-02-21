@@ -2,3 +2,8 @@ designs/*
 designs/**
 env/*
 env/**
+dataset/*
+dataset/**
+dataset/*/*
+dataset/*/*/*
+dataset/*/*/**
