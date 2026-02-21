@@ -1,10 +1,13 @@
+##START TIME
+set start_time [exec date +%s]
+
 # extract_endpoint_labels_postroute.tcl
 # Goal: For each endpoint pin (default */D), find worst reg2reg path slack at postroute
 # and write a ranking dataset: endpoint_name, inst_name, slack, rank, percentile, bucket.
 
 # ---- user config ----
 if {![info exists stage]}  { set stage "route_label" }
-if {![info exists corner]} { set corner "ss_1p60v_m40c" }
+set corner "ss_1p60v_m40c"
 if {![info exists path_group]} { set path_group "reg2reg" }
 
 # Endpoint pin selection (Sky130 FFs have /D)
@@ -152,3 +155,7 @@ foreach r $rows_sorted {
 }
 close $fo
 puts "Wrote: $out_csv"
+
+##END TIME
+set end_time [exec date +%s]
+set extract_labels_time [expr $end_time - $start_time]

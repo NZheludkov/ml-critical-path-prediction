@@ -1,26 +1,26 @@
 Total paths: 433
-Negative slack paths: 4
+Negative slack paths: 5
 Top 5.0% worst paths (count=22):
 Startpoint	Endpoint	Slack
-_17816_/Q (sky130_fd_sc_hd__dfxtp_2) _17842_/D (sky130_fd_sc_hd__dfxtp_2)		-0.705
-_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17850_/D (sky130_fd_sc_hd__dfxtp_2)		-0.133
-_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17786_/D (sky130_fd_sc_hd__dfxtp_2)		-0.103
-_17873_/Q (sky130_fd_sc_hd__dfxtp_1) _17797_/D (sky130_fd_sc_hd__dfxtp_1)		-0.1
-_17834_/Q (sky130_fd_sc_hd__dfxtp_2) _17829_/D (sky130_fd_sc_hd__dfxtp_2)		0.017
-_17833_/Q (sky130_fd_sc_hd__dfxtp_4) _17831_/D (sky130_fd_sc_hd__dfxtp_4)		0.05
-_17803_/Q (sky130_fd_sc_hd__dfxtp_2) _17864_/D (sky130_fd_sc_hd__dfxtp_2)		0.086
-_17807_/Q (sky130_fd_sc_hd__dfxtp_2) _17900_/D (sky130_fd_sc_hd__dfxtp_2)		0.146
-_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17854_/D (sky130_fd_sc_hd__dfxtp_2)		0.227
-_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17851_/D (sky130_fd_sc_hd__dfxtp_2)		0.259
-_17841_/Q (sky130_fd_sc_hd__dfxtp_2) _17803_/D (sky130_fd_sc_hd__dfxtp_2)		0.267
-_17785_/Q (sky130_fd_sc_hd__dfxtp_2) _17881_/D (sky130_fd_sc_hd__dfxtp_2)		0.267
-_17809_/Q (sky130_fd_sc_hd__dfxtp_2) _17874_/D (sky130_fd_sc_hd__dfxtp_2)		0.285
-_17791_/Q (sky130_fd_sc_hd__dfxtp_4) _17887_/D (sky130_fd_sc_hd__dfxtp_4)		0.292
-_17809_/Q (sky130_fd_sc_hd__dfxtp_2) _17876_/D (sky130_fd_sc_hd__dfxtp_2)		0.349
-_17794_/Q (sky130_fd_sc_hd__dfxtp_2) _17889_/D (sky130_fd_sc_hd__dfxtp_2)		0.356
-_17847_/Q (sky130_fd_sc_hd__dfxtp_2) _17835_/D (sky130_fd_sc_hd__dfxtp_2)		0.387
-_17865_/Q (sky130_fd_sc_hd__dfxtp_2) _17787_/D (sky130_fd_sc_hd__dfxtp_2)		0.4
-_17872_/Q (sky130_fd_sc_hd__dfxtp_4) _17857_/D (sky130_fd_sc_hd__dfxtp_4)		0.432
-_17794_/Q (sky130_fd_sc_hd__dfxtp_2) _17890_/D (sky130_fd_sc_hd__dfxtp_2)		0.44
-_17809_/Q (sky130_fd_sc_hd__dfxtp_2) _17879_/D (sky130_fd_sc_hd__dfxtp_2)		0.45
-_17842_/Q (sky130_fd_sc_hd__dfxtp_2) _17806_/D (sky130_fd_sc_hd__dfxtp_2)		0.471
+_17803_/Q (sky130_fd_sc_hd__dfxtp_4) _17871_/D (sky130_fd_sc_hd__dfxtp_4)		-1.847
+_17815_/Q (sky130_fd_sc_hd__dfxtp_2) _17907_/D (sky130_fd_sc_hd__dfxtp_2)		-0.455
+_17803_/Q (sky130_fd_sc_hd__dfxtp_2) _17868_/D (sky130_fd_sc_hd__dfxtp_2)		-0.395
+_17785_/Q (sky130_fd_sc_hd__dfxtp_2) _17880_/D (sky130_fd_sc_hd__dfxtp_2)		-0.289
+_17803_/Q (sky130_fd_sc_hd__dfxtp_2) _17835_/D (sky130_fd_sc_hd__dfxtp_2)		-0.192
+_17866_/Q (sky130_fd_sc_hd__dfxtp_2) _17854_/D (sky130_fd_sc_hd__dfxtp_2)		0.181
+_17658_/Q (sky130_fd_sc_hd__dfxtp_1) _17773_/D (sky130_fd_sc_hd__dfxtp_1)		0.192
+_17811_/Q (sky130_fd_sc_hd__dfxtp_2) _17840_/D (sky130_fd_sc_hd__dfxtp_2)		0.235
+_17815_/Q (sky130_fd_sc_hd__dfxtp_2) _17905_/D (sky130_fd_sc_hd__dfxtp_2)		0.254
+_17793_/Q (sky130_fd_sc_hd__dfxtp_2) _17892_/D (sky130_fd_sc_hd__dfxtp_2)		0.28
+_17793_/Q (sky130_fd_sc_hd__dfxtp_2) _17894_/D (sky130_fd_sc_hd__dfxtp_2)		0.339
+_17809_/Q (sky130_fd_sc_hd__dfxtp_2) _17808_/D (sky130_fd_sc_hd__dfxtp_2)		0.379
+_17847_/Q (sky130_fd_sc_hd__dfxtp_2) _17801_/D (sky130_fd_sc_hd__dfxtp_2)		0.381
+_17879_/Q (sky130_fd_sc_hd__dfxtp_2) _17858_/D (sky130_fd_sc_hd__dfxtp_2)		0.4
+_17800_/Q (sky130_fd_sc_hd__dfxtp_2) _17864_/D (sky130_fd_sc_hd__dfxtp_2)		0.414
+_17785_/Q (sky130_fd_sc_hd__dfxtp_2) _17820_/D (sky130_fd_sc_hd__dfxtp_2)		0.43
+_17785_/Q (sky130_fd_sc_hd__dfxtp_2) _17885_/D (sky130_fd_sc_hd__dfxtp_2)		0.46
+_17803_/Q (sky130_fd_sc_hd__dfxtp_2) _17833_/D (sky130_fd_sc_hd__dfxtp_2)		0.463
+_17803_/Q (sky130_fd_sc_hd__dfxtp_4) _17839_/D (sky130_fd_sc_hd__dfxtp_4)		0.467
+_17841_/Q (sky130_fd_sc_hd__dfxtp_2) _17900_/D (sky130_fd_sc_hd__dfxtp_2)		0.469
+_17811_/Q (sky130_fd_sc_hd__dfxtp_2) _17846_/D (sky130_fd_sc_hd__dfxtp_2)		0.477
+_17803_/Q (sky130_fd_sc_hd__dfxtp_2) _17832_/D (sky130_fd_sc_hd__dfxtp_2)		0.499

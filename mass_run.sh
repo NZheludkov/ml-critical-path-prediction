@@ -25,7 +25,9 @@ mc_top \
 sha256 \
 "
 
-designs="usb_phy"
+designs="\
+usb_phy
+"
 
 #run flow for choosen designs
 for design in $designs
