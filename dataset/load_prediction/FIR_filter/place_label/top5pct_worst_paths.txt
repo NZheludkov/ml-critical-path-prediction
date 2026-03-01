@@ -1,0 +1,25 @@
+Total paths: 407
+Negative slack paths: 7
+Top 5.0% worst paths (count=21):
+Startpoint	Endpoint	Slack
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3851_/D (sky130_fd_sc_hd__dfrtp_1)	-0.644
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3883_/D (sky130_fd_sc_hd__dfrtp_1)	-0.477
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3850_/D (sky130_fd_sc_hd__dfrtp_1)	-0.451
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3882_/D (sky130_fd_sc_hd__dfrtp_1)	-0.409
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3849_/D (sky130_fd_sc_hd__dfrtp_1)	-0.084
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3881_/D (sky130_fd_sc_hd__dfrtp_1)	-0.082
+_3725_/Q (sky130_fd_sc_hd__dfrtp_1)	_3787_/D (sky130_fd_sc_hd__dfrtp_1)	-0.048
+_3725_/Q (sky130_fd_sc_hd__dfrtp_1)	_3786_/D (sky130_fd_sc_hd__dfrtp_1)	0.099
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3915_/D (sky130_fd_sc_hd__dfrtp_1)	0.102
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3913_/D (sky130_fd_sc_hd__dfrtp_1)	0.134
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3914_/D (sky130_fd_sc_hd__dfrtp_1)	0.31
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3912_/D (sky130_fd_sc_hd__dfrtp_1)	0.466
+_3725_/Q (sky130_fd_sc_hd__dfrtp_1)	_3785_/D (sky130_fd_sc_hd__dfrtp_1)	0.512
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3848_/D (sky130_fd_sc_hd__dfrtp_1)	0.849
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3911_/D (sky130_fd_sc_hd__dfrtp_1)	0.928
+_3726_/Q (sky130_fd_sc_hd__dfrtp_1)	_3947_/D (sky130_fd_sc_hd__dfrtp_1)	0.994
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3880_/D (sky130_fd_sc_hd__dfrtp_1)	0.997
+_3726_/Q (sky130_fd_sc_hd__dfrtp_1)	_4041_/D (sky130_fd_sc_hd__dfrtp_1)	1.084
+_3726_/Q (sky130_fd_sc_hd__dfrtp_1)	_4040_/D (sky130_fd_sc_hd__dfrtp_1)	1.149
+_3724_/Q (sky130_fd_sc_hd__dfrtp_1)	_3910_/D (sky130_fd_sc_hd__dfrtp_1)	1.297
+_3726_/Q (sky130_fd_sc_hd__dfrtp_1)	_3946_/D (sky130_fd_sc_hd__dfrtp_1)	1.317

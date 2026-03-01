@@ -1,0 +1,25 @@
+corner=ss_1p60v_m40c path_group=reg2reg endpoint_pin_regex=\/D$
+endpoints_found=90
+NO_PATH ep=_230_/D
+NO_PATH ep=_315_/D
+NO_PATH ep=_323_/D
+NO_PATH ep=_410_/D
+NO_PATH ep=_443_/D
+NO_PATH ep=_466_/D
+NO_PATH ep=_467_/D
+NO_PATH ep=_468_/D
+NO_PATH ep=_469_/D
+NO_PATH ep=_470_/D
+NO_PATH ep=_471_/D
+NO_PATH ep=_472_/D
+NO_PATH ep=_473_/D
+NO_PATH ep=_474_/D
+NO_PATH ep=_475_/D
+NO_PATH ep=_476_/D
+NO_PATH ep=_477_/D
+NO_PATH ep=_478_/D
+NO_PATH ep=_479_/D
+NO_PATH ep=_480_/D
+NO_PATH ep=_481_/D
+NO_PATH ep=_488_/D
+ok=68 nopath=22

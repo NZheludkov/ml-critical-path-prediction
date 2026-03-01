@@ -7,3 +7,6 @@ dataset/**
 dataset/*/*
 dataset/*/*/*
 dataset/*/*/**
+!/dataset/load_prediction/
+!/dataset/load_prediction/**
+!/dataset/load_prediction/**/**/**

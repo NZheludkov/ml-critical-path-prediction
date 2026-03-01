@@ -1,0 +1,708 @@
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_586_/Q (sky130_fd_sc_hd__dfxtp_4)   _494_/D (sky130_fd_sc_hd__dfxtp_4)      7.518
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfrtp_4)   _495_/D (sky130_fd_sc_hd__dfrtp_4)      4.873
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_588_/Q (sky130_fd_sc_hd__dfxtp_4)   _496_/D (sky130_fd_sc_hd__dfxtp_4)      4.580
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_588_/Q (sky130_fd_sc_hd__dfxtp_4)   _497_/D (sky130_fd_sc_hd__dfxtp_4)      4.993
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_588_/Q (sky130_fd_sc_hd__dfxtp_4)   _498_/D (sky130_fd_sc_hd__dfxtp_4)      5.139
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_589_/Q (sky130_fd_sc_hd__dfxtp_4)   _499_/D (sky130_fd_sc_hd__dfxtp_4)      5.587
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_588_/Q (sky130_fd_sc_hd__dfxtp_4)   _500_/D (sky130_fd_sc_hd__dfxtp_4)      5.099
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_588_/Q (sky130_fd_sc_hd__dfxtp_4)   _501_/D (sky130_fd_sc_hd__dfxtp_4)      5.348
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_588_/Q (sky130_fd_sc_hd__dfxtp_4)   _502_/D (sky130_fd_sc_hd__dfxtp_4)      5.510
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_588_/Q (sky130_fd_sc_hd__dfxtp_4)   _503_/D (sky130_fd_sc_hd__dfxtp_4)      5.507
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _504_/D (sky130_fd_sc_hd__edfxtp_1)     3.536
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _504_/DE (sky130_fd_sc_hd__edfxtp_1)    3.018
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _505_/D (sky130_fd_sc_hd__edfxtp_1)     3.512
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _505_/DE (sky130_fd_sc_hd__edfxtp_1)    3.018
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _506_/D (sky130_fd_sc_hd__edfxtp_1)     3.524
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _506_/DE (sky130_fd_sc_hd__edfxtp_1)    3.018
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _507_/D (sky130_fd_sc_hd__edfxtp_1)     3.006
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _507_/DE (sky130_fd_sc_hd__edfxtp_1)    3.018
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _508_/D (sky130_fd_sc_hd__edfxtp_1)     3.057
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _508_/DE (sky130_fd_sc_hd__edfxtp_1)    3.018
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _509_/D (sky130_fd_sc_hd__edfxtp_1)     3.306
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _509_/DE (sky130_fd_sc_hd__edfxtp_1)    3.019
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _510_/D (sky130_fd_sc_hd__edfxtp_1)     3.299
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _510_/DE (sky130_fd_sc_hd__edfxtp_1)    3.019
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _511_/D (sky130_fd_sc_hd__edfxtp_1)     3.119
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _511_/DE (sky130_fd_sc_hd__edfxtp_1)    3.109
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _512_/D (sky130_fd_sc_hd__edfxtp_1)     3.101
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _512_/DE (sky130_fd_sc_hd__edfxtp_1)    3.369
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _513_/D (sky130_fd_sc_hd__edfxtp_1)     3.167
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _513_/DE (sky130_fd_sc_hd__edfxtp_1)    3.369
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _514_/D (sky130_fd_sc_hd__edfxtp_1)     3.100
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _514_/DE (sky130_fd_sc_hd__edfxtp_1)    3.109
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _515_/D (sky130_fd_sc_hd__edfxtp_1)     4.081
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__edfxtp_1)  _515_/DE (sky130_fd_sc_hd__edfxtp_1)    3.109
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_600_/Q (sky130_fd_sc_hd__edfxtp_1)  _516_/D (sky130_fd_sc_hd__edfxtp_1)     7.452
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _516_/DE (sky130_fd_sc_hd__edfxtp_1)    6.963
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_601_/Q (sky130_fd_sc_hd__edfxtp_1)  _517_/D (sky130_fd_sc_hd__edfxtp_1)     7.445
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _517_/DE (sky130_fd_sc_hd__edfxtp_1)    6.469
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_602_/Q (sky130_fd_sc_hd__edfxtp_1)  _518_/D (sky130_fd_sc_hd__edfxtp_1)     7.659
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _518_/DE (sky130_fd_sc_hd__edfxtp_1)    6.469
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_603_/Q (sky130_fd_sc_hd__edfxtp_1)  _519_/D (sky130_fd_sc_hd__edfxtp_1)     7.456
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _519_/DE (sky130_fd_sc_hd__edfxtp_1)    6.469
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_604_/Q (sky130_fd_sc_hd__edfxtp_1)  _520_/D (sky130_fd_sc_hd__edfxtp_1)     7.652
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _520_/DE (sky130_fd_sc_hd__edfxtp_1)    6.469
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_605_/Q (sky130_fd_sc_hd__edfxtp_1)  _521_/D (sky130_fd_sc_hd__edfxtp_1)     7.444
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _521_/DE (sky130_fd_sc_hd__edfxtp_1)    6.469
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_606_/Q (sky130_fd_sc_hd__edfxtp_1)  _522_/D (sky130_fd_sc_hd__edfxtp_1)     7.647
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _522_/DE (sky130_fd_sc_hd__edfxtp_1)    6.469
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_607_/Q (sky130_fd_sc_hd__edfxtp_1)  _523_/D (sky130_fd_sc_hd__edfxtp_1)     4.905
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _523_/DE (sky130_fd_sc_hd__edfxtp_1)    6.469
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_600_/Q (sky130_fd_sc_hd__edfxtp_1)  _524_/D (sky130_fd_sc_hd__edfxtp_1)     7.452
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _524_/DE (sky130_fd_sc_hd__edfxtp_1)    6.800
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_601_/Q (sky130_fd_sc_hd__edfxtp_1)  _525_/D (sky130_fd_sc_hd__edfxtp_1)     7.445
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _525_/DE (sky130_fd_sc_hd__edfxtp_1)    6.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_602_/Q (sky130_fd_sc_hd__edfxtp_1)  _526_/D (sky130_fd_sc_hd__edfxtp_1)     7.659
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _526_/DE (sky130_fd_sc_hd__edfxtp_1)    6.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_603_/Q (sky130_fd_sc_hd__edfxtp_1)  _527_/D (sky130_fd_sc_hd__edfxtp_1)     7.456
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _527_/DE (sky130_fd_sc_hd__edfxtp_1)    6.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_604_/Q (sky130_fd_sc_hd__edfxtp_1)  _528_/D (sky130_fd_sc_hd__edfxtp_1)     7.652
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _528_/DE (sky130_fd_sc_hd__edfxtp_1)    6.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_605_/Q (sky130_fd_sc_hd__edfxtp_1)  _529_/D (sky130_fd_sc_hd__edfxtp_1)     7.444
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _529_/DE (sky130_fd_sc_hd__edfxtp_1)    6.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_606_/Q (sky130_fd_sc_hd__edfxtp_1)  _530_/D (sky130_fd_sc_hd__edfxtp_1)     7.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _530_/DE (sky130_fd_sc_hd__edfxtp_1)    6.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_607_/Q (sky130_fd_sc_hd__edfxtp_1)  _531_/D (sky130_fd_sc_hd__edfxtp_1)     4.905
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _531_/DE (sky130_fd_sc_hd__edfxtp_1)    6.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_600_/Q (sky130_fd_sc_hd__edfxtp_1)  _532_/D (sky130_fd_sc_hd__edfxtp_1)     7.452
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _532_/DE (sky130_fd_sc_hd__edfxtp_1)    7.017
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_601_/Q (sky130_fd_sc_hd__edfxtp_1)  _533_/D (sky130_fd_sc_hd__edfxtp_1)     7.445
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _533_/DE (sky130_fd_sc_hd__edfxtp_1)    6.650
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_602_/Q (sky130_fd_sc_hd__edfxtp_1)  _534_/D (sky130_fd_sc_hd__edfxtp_1)     7.659
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _534_/DE (sky130_fd_sc_hd__edfxtp_1)    6.650
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_603_/Q (sky130_fd_sc_hd__edfxtp_1)  _535_/D (sky130_fd_sc_hd__edfxtp_1)     7.456
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _535_/DE (sky130_fd_sc_hd__edfxtp_1)    6.650
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_604_/Q (sky130_fd_sc_hd__edfxtp_1)  _536_/D (sky130_fd_sc_hd__edfxtp_1)     7.652
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _536_/DE (sky130_fd_sc_hd__edfxtp_1)    6.650
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_605_/Q (sky130_fd_sc_hd__edfxtp_1)  _537_/D (sky130_fd_sc_hd__edfxtp_1)     7.444
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _537_/DE (sky130_fd_sc_hd__edfxtp_1)    6.650
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_606_/Q (sky130_fd_sc_hd__edfxtp_1)  _538_/D (sky130_fd_sc_hd__edfxtp_1)     7.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _538_/DE (sky130_fd_sc_hd__edfxtp_1)    6.650
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_607_/Q (sky130_fd_sc_hd__edfxtp_1)  _539_/D (sky130_fd_sc_hd__edfxtp_1)     4.905
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _539_/DE (sky130_fd_sc_hd__edfxtp_1)    6.650
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_600_/Q (sky130_fd_sc_hd__edfxtp_1)  _540_/D (sky130_fd_sc_hd__edfxtp_1)     7.452
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _540_/DE (sky130_fd_sc_hd__edfxtp_1)    6.553
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_601_/Q (sky130_fd_sc_hd__edfxtp_1)  _541_/D (sky130_fd_sc_hd__edfxtp_1)     7.445
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _541_/DE (sky130_fd_sc_hd__edfxtp_1)    6.553
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_602_/Q (sky130_fd_sc_hd__edfxtp_1)  _542_/D (sky130_fd_sc_hd__edfxtp_1)     7.659
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _542_/DE (sky130_fd_sc_hd__edfxtp_1)    6.553
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_603_/Q (sky130_fd_sc_hd__edfxtp_1)  _543_/D (sky130_fd_sc_hd__edfxtp_1)     7.456
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _543_/DE (sky130_fd_sc_hd__edfxtp_1)    6.553
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_604_/Q (sky130_fd_sc_hd__edfxtp_1)  _544_/D (sky130_fd_sc_hd__edfxtp_1)     7.652
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _544_/DE (sky130_fd_sc_hd__edfxtp_1)    6.276
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_605_/Q (sky130_fd_sc_hd__edfxtp_1)  _545_/D (sky130_fd_sc_hd__edfxtp_1)     7.444
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _545_/DE (sky130_fd_sc_hd__edfxtp_1)    6.276
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_606_/Q (sky130_fd_sc_hd__edfxtp_1)  _546_/D (sky130_fd_sc_hd__edfxtp_1)     7.440
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _546_/DE (sky130_fd_sc_hd__edfxtp_1)    6.553
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_607_/Q (sky130_fd_sc_hd__edfxtp_1)  _547_/D (sky130_fd_sc_hd__edfxtp_1)     4.905
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__edfxtp_1)  _547_/DE (sky130_fd_sc_hd__edfxtp_1)    6.276
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _548_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _549_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _550_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _551_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _552_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _553_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _554_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _555_/DE (sky130_fd_sc_hd__edfxtp_1)    3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _556_/DE (sky130_fd_sc_hd__edfxtp_1)    3.352
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _557_/DE (sky130_fd_sc_hd__edfxtp_1)    2.890
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _558_/DE (sky130_fd_sc_hd__edfxtp_1)    2.889
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _559_/DE (sky130_fd_sc_hd__edfxtp_1)    3.352
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _560_/DE (sky130_fd_sc_hd__edfxtp_1)    2.889
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _561_/DE (sky130_fd_sc_hd__edfxtp_1)    2.889
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _562_/DE (sky130_fd_sc_hd__edfxtp_1)    2.890
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _563_/DE (sky130_fd_sc_hd__edfxtp_1)    3.352
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _564_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _565_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _566_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _567_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _568_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _569_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _570_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _571_/DE (sky130_fd_sc_hd__edfxtp_1)    3.490
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _572_/DE (sky130_fd_sc_hd__edfxtp_1)    3.380
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _573_/DE (sky130_fd_sc_hd__edfxtp_1)    2.929
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _574_/DE (sky130_fd_sc_hd__edfxtp_1)    2.929
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _575_/DE (sky130_fd_sc_hd__edfxtp_1)    3.380
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _576_/DE (sky130_fd_sc_hd__edfxtp_1)    2.929
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _577_/DE (sky130_fd_sc_hd__edfxtp_1)    2.929
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _578_/DE (sky130_fd_sc_hd__edfxtp_1)    2.930
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__edfxtp_1)  _579_/DE (sky130_fd_sc_hd__edfxtp_1)    3.380
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_580_/Q (sky130_fd_sc_hd__dfrtp_1)   _580_/D (sky130_fd_sc_hd__dfrtp_1)      7.068
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_581_/Q (sky130_fd_sc_hd__dfrtp_2)   _581_/D (sky130_fd_sc_hd__dfrtp_2)      6.945
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_582_/Q (sky130_fd_sc_hd__dfrtp_1)   _582_/D (sky130_fd_sc_hd__dfrtp_1)      7.093
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_583_/Q (sky130_fd_sc_hd__dfrtp_1)   _583_/D (sky130_fd_sc_hd__dfrtp_1)      7.111
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_584_/Q (sky130_fd_sc_hd__dfrtp_1)   _584_/D (sky130_fd_sc_hd__dfrtp_1)      7.138
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_585_/Q (sky130_fd_sc_hd__dfrtp_4)   _585_/D (sky130_fd_sc_hd__dfrtp_4)      6.623
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_586_/Q (sky130_fd_sc_hd__dfrtp_1)   _586_/D (sky130_fd_sc_hd__dfrtp_1)      7.124
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfxtp_1)   _587_/D (sky130_fd_sc_hd__dfxtp_1)      3.667
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfrtp_4)   _588_/D (sky130_fd_sc_hd__dfrtp_4)      3.356
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfrtp_2)   _589_/D (sky130_fd_sc_hd__dfrtp_2)      3.173
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_585_/Q (sky130_fd_sc_hd__dfrtp_2)   _590_/D (sky130_fd_sc_hd__dfrtp_2)      6.796
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_590_/Q (sky130_fd_sc_hd__dfrtp_2)   _591_/D (sky130_fd_sc_hd__dfrtp_2)      6.610
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfxtp_1)   _592_/D (sky130_fd_sc_hd__dfxtp_1)      3.566
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_593_/Q (sky130_fd_sc_hd__dfrtp_4)   _593_/D (sky130_fd_sc_hd__dfrtp_4)      7.000
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_593_/Q (sky130_fd_sc_hd__dfrtp_2)   _594_/D (sky130_fd_sc_hd__dfrtp_2)      7.037
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfrtp_2)   _595_/D (sky130_fd_sc_hd__dfrtp_2)      3.609
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfrtp_2)   _596_/D (sky130_fd_sc_hd__dfrtp_2)      3.181
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_585_/Q (sky130_fd_sc_hd__edfxtp_1)  _597_/D (sky130_fd_sc_hd__edfxtp_1)     6.735
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_585_/Q (sky130_fd_sc_hd__edfxtp_1)  _597_/DE (sky130_fd_sc_hd__edfxtp_1)    6.752
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_585_/Q (sky130_fd_sc_hd__edfxtp_1)  _598_/D (sky130_fd_sc_hd__edfxtp_1)     6.862
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_585_/Q (sky130_fd_sc_hd__edfxtp_1)  _598_/DE (sky130_fd_sc_hd__edfxtp_1)    6.752
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_4)   _599_/D (sky130_fd_sc_hd__dfxtp_4)      3.535
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _600_/D (sky130_fd_sc_hd__dfxtp_1)      3.012
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _601_/D (sky130_fd_sc_hd__dfxtp_1)      3.019
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _602_/D (sky130_fd_sc_hd__dfxtp_1)      3.016
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _603_/D (sky130_fd_sc_hd__dfxtp_1)      3.010
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _604_/D (sky130_fd_sc_hd__dfxtp_1)      3.009
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _605_/D (sky130_fd_sc_hd__dfxtp_1)      3.021
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _606_/D (sky130_fd_sc_hd__dfxtp_1)      3.013
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_4)   _607_/D (sky130_fd_sc_hd__dfxtp_4)      2.985
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_596_/Q (sky130_fd_sc_hd__dfxtp_1)   _608_/D (sky130_fd_sc_hd__dfxtp_1)      6.448
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _609_/D (sky130_fd_sc_hd__dfxtp_1)      3.973
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_2)   _610_/D (sky130_fd_sc_hd__dfxtp_2)      2.543
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _611_/D (sky130_fd_sc_hd__dfxtp_1)      3.503
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _612_/D (sky130_fd_sc_hd__dfxtp_1)      3.383
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _613_/D (sky130_fd_sc_hd__dfxtp_1)      2.639
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_506_/Q (sky130_fd_sc_hd__dfxtp_1)   _614_/D (sky130_fd_sc_hd__dfxtp_1)      2.908
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_495_/Q (sky130_fd_sc_hd__dfxtp_1)   _615_/D (sky130_fd_sc_hd__dfxtp_1)      3.384
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_609_/Q (sky130_fd_sc_hd__dfxtp_1)   _616_/D (sky130_fd_sc_hd__dfxtp_1)      6.790
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_617_/Q (sky130_fd_sc_hd__dfrtp_1)   _617_/D (sky130_fd_sc_hd__dfrtp_1)      6.828
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_618_/Q (sky130_fd_sc_hd__dfrtp_1)   _618_/D (sky130_fd_sc_hd__dfrtp_1)      7.039
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_619_/Q (sky130_fd_sc_hd__dfrtp_1)   _619_/D (sky130_fd_sc_hd__dfrtp_1)      7.141
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_620_/Q (sky130_fd_sc_hd__dfrtp_1)   _620_/D (sky130_fd_sc_hd__dfrtp_1)      7.141
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_621_/Q (sky130_fd_sc_hd__dfrtp_1)   _621_/D (sky130_fd_sc_hd__dfrtp_1)      7.138
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_622_/Q (sky130_fd_sc_hd__dfrtp_1)   _622_/D (sky130_fd_sc_hd__dfrtp_1)      7.127
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_623_/Q (sky130_fd_sc_hd__dfrtp_1)   _623_/D (sky130_fd_sc_hd__dfrtp_1)      7.109
+
+Startpoint                           Endpoint                                Slack
+---------------------------------------------------------------------------------
+_624_/Q (sky130_fd_sc_hd__dfrtp_1)   _624_/D (sky130_fd_sc_hd__dfrtp_1)      7.093
+
