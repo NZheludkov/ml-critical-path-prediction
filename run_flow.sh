@@ -33,11 +33,16 @@ export pdk_path
 export flow_dir
 
 #run synt in yosys
-cd $flow_dir/designs/$design/yosys/
-yosys $flow_dir/flow_scripts/run_yosys.tcl
+cd "$flow_dir/designs/$design/yosys/" || exit 1
+
+if [ -f "$design.v" ]; then
+    echo "File $design.v already exists, skipping synthesis."
+else
+    yosys "$flow_dir/flow_scripts/run_yosys.tcl"
+fi
 
 #run flow in openroad
 cd $flow_dir/designs/$design/openroad/
 openroad -threads 4 -log ./log.txt \
 -metrics metrics.txt \
-$flow_dir/flow_scripts/run_openroad.tcl -gui
+$flow_dir/flow_scripts/run_openroad.tcl -exit

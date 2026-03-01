@@ -46,6 +46,13 @@ global_placement \
 -pad_right "4" \
 -enable_routing_congestion
 
+##ADD TIELO TIEHI
+insert_tiecells -prefix TIE sky130_fd_sc_hd__conb_1/HI
+insert_tiecells -prefix TIE sky130_fd_sc_hd__conb_1/LO
+
+repair_tie_fanout -verbose sky130_fd_sc_hd__conb_1/HI
+repair_tie_fanout -verbose sky130_fd_sc_hd__conb_1/LO
+
 #DETAILED PLACEMENT
 detailed_placement
 

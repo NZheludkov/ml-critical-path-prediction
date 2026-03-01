@@ -20,11 +20,8 @@ source $flow_dir/flow_scripts/create_floorplan.tcl
 #prects 
 source $flow_dir/flow_scripts/prects.tcl
 
-#extract timing features
-source $flow_dir/flow_scripts/extract_endpoint_features_place_v3.tcl
-
 #extract net load features
-source $flow_dir/flow_scripts/extract_net_feats.tcl
+source $flow_dir/flow_scripts/extract_net_load_feats.tcl
 
 #cts 
 source $flow_dir/flow_scripts/cts.tcl
@@ -35,8 +32,8 @@ source $flow_dir/flow_scripts/postcts.tcl
 #route 
 source $flow_dir/flow_scripts/route.tcl
 
-#extract labels
-source $flow_dir/flow_scripts/extract_endpoint_labels_postroute.tcl
+#extract net load labels
+source $flow_dir/flow_scripts/extract_net_load_labels.tcl
 
 #dataset 
 source $flow_dir/flow_scripts/create_dataset.tcl

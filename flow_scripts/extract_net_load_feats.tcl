@@ -180,15 +180,15 @@ foreach net $nets {
 	dict set dict_nets $net "term_bbox_hpwl" [expr roundto(([[$net_odb_name getTermBBox] dx] + [[$net_odb_name getTermBBox] dy]) / $db_units_per_micron,3)]
 
 	#net bbox aspect ration X/Y
-	set dx [expr [[$net_odb_name getTermBBox] dx] / $db_units_per_micron]
-	set dy [expr [[$net_odb_name getTermBBox] dy] / $db_units_per_micron]
+	set dx [expr [[$net_odb_name getTermBBox] dx] / $db_units_per_micron + 1e-8]
+	set dy [expr [[$net_odb_name getTermBBox] dy] / $db_units_per_micron + 1e-8]
 	dict set dict_nets $net "term_bbox_ar" [expr roundto([expr $dx / $dy],3)]
 	
-  #wire capacitence estimated by openroad (estimate_parasitics -placement)
-  set wire_capacitence_placement [expr roundto([$net_db_name wire_capacitance $corner max],3)]
-  dict set dict_nets $net "wire_capacitence_placement" $wire_capacitence_placement
+  #wire capacitance estimated by openroad (estimate_parasitics -placement)
+  set wire_capacitance_placement [expr roundto([$net_db_name wire_capacitance $corner max],3)]
+  dict set dict_nets $net "wire_capacitance_placement" $wire_capacitance_placement
 
-  #pins capacitence
+  #pins capacitance
   if {$is_port && $port_direction eq "output"} {
     set pin_capacitance 0.0
   } else {
@@ -252,11 +252,12 @@ foreach net $nets {
 
 }
 
+exec mkdir -p ./features/
 write_dict_nets_csv $dict_nets "./features/nets_load_features.csv"
 
 ##END TIME
 set end_time [exec date +%s]
-set prects_time [expr $end_time - $start_time]
+set extract_net_load_feats [expr $end_time - $start_time]
 
 
 

@@ -15,6 +15,13 @@ set rtl_list [glob $rtl_dataset_path/designs/$design/rtl/*.v]
 foreach rtl $rtl_list {
 	read_verilog $rtl
 }
+
+#read system verilog
+#set rtl_list [glob $rtl_dataset_path/designs/$design/rtl/*.sv]
+#foreach rtl $rtl_list {
+#	#read_verilog -sv $rtl
+#}
+
 	
 ##READ LIBERTY LATCH
 read_liberty -ignore_miss_func -ignore_miss_dir -ignore_miss_data_latch -lib "$pdk_path/libraries/sky130_fd_sc_hd/latest/timing/sky130_fd_sc_hd__ss_n40C_1v44.lib"
